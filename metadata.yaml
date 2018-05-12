@@ -1,0 +1,29 @@
+_repo: Een-abel-spel-van-EsmoreitSconics-sone-van-Cecilien_17644
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17644-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Spitz, R. J.
+    alias: Spitz, Raphael Jesaija
+    birthdate: 1889
+    deathdate: 1954
+    gutenberg_agent_id: '5384'
+    url: http://www.gutenberg.org/2009/agents/5384
+description: ''
+gutenberg_issued: '2006-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17644'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Drama'
+title: 'Een abel spel van Esmoreit
+
+  Sconics sone van Cecilien'
+url: http://www.gutenberg.org/ebooks/17644
